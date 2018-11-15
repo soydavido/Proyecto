@@ -2,7 +2,7 @@
   "require": {
     "silex/silex": "*",
     "monolog/monolog": "*",
-    "heroku/heroku-buildpack-php": "*",
+    "heroku/heroku-buildpack-php": "*"
   }
 }
 
