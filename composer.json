@@ -1,7 +1,9 @@
 {
   "require": {
     "silex/silex": "*",
-    "monolog/monolog": "*",
+    "monolog/monolog": "*"
+  },
+  "require-dev": {
     "heroku/heroku-buildpack-php": "*"
   }
 }
