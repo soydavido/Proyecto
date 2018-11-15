@@ -1,6 +1,8 @@
 {
   "require": {
-    "silex/silex": "~1.1",
+    "silex/silex": "*",
+    "monolog/monolog": "*",
+    "heroku/heroku-buildpack-php": "*",
   }
 }
 
